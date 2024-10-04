@@ -1,11 +1,13 @@
 
+##Demo
+
+https://github.com/user-attachments/assets/cfb40430-0090-4b7c-b8f4-b7834cad74f2
+
+
 # River Animation with Jetpack Compose
 
 This project demonstrates how to implement a pull-to-refresh animation using Jetpack Compose and Rive animations in an Android application.
 
-##Demo
-
-https://github.com/user-attachments/assets/cfb40430-0090-4b7c-b8f4-b7834cad74f2
 
 
 ## Features
